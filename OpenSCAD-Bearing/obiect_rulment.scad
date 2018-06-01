@@ -1,3 +1,10 @@
+/*
+Autor: Goada Radu
+Materie: Roboti Inteligenti
+Proiect: INFOR MASTER ANUL I SEM II
+*/
+
+
 $fn = 100;
 
 rotate_extrude(){
